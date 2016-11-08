@@ -1,0 +1,3 @@
+[
+	{ "keys": ["F1"], "command": "show_key_bindings" }
+]
