@@ -10,4 +10,8 @@ Press **F1**
 
 **Screenshot**
 
+![Screenshot Windows 10 - New](fman-plugin-showkeybindings-w10-2.png)
+
+**Old screenshot**
+
 ![Screenshot Windows 10](fman-plugin-showkeybindings-w10.png)
